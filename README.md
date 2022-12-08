@@ -1,6 +1,7 @@
 -Hi, I’m @Fevenbahta
-- am a student at arbaminch university
-- software engineer
+- am a software engineering student
+- front-end developer
+-interested in graphics
 
 
 
