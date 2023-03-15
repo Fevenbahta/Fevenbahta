@@ -1,5 +1,5 @@
 -Hi, I’m @Fevenbahta
-- am a software engineering student
+- am a software engineer
 - front-end developer
 -interested in graphics
 
