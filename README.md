@@ -1,7 +1,7 @@
 -Hi, I’m @Fevenbahta
 - am a software engineer
-- front-end developer
--interested in graphics
+- FullStack Developer
+-interested in machine learning and problem-solving 
 
 
 
